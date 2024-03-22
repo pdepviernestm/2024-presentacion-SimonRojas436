@@ -1,4 +1,4 @@
-# Presentación
+# PRESENTACIÓN:
 ---
 
 ## Acerca de mí:
@@ -6,6 +6,9 @@
 - No soy mucho de mirar películas, pero ***One day*** es una cosa.
 
 ## Acerca de las cosas que me gustan:
-- La lectura.
+- La lectura. Mis libros favoritos (hoy, porque mañana pueden cambiar) son ***El Libro de Monelle*** y ***Si una Noche de Invierno un Viajero***.
 - El dibujo, desde siempre.
 - Los perros y los gatos. (Pdta: Me dan alergia los gatos.)
+
+## Una foto mia:
+![](https://fv5-2.failiem.lv/thumb_show.php?i=hqweyr6t87&view&v=1)
