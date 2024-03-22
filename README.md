@@ -1,10 +1,11 @@
-# presentacion-
+# Presentación
+---
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Acerca de mí:
+- Me llamo Simón Rojas, nací en 2005 y fue hace 6 años (creo recordar) que pisé por primera vez Argentina.
+- No soy mucho de mirar películas, pero ***One day*** es una cosa.
 
-Ya saben usar git!
+## Acerca de las cosas que me gustan:
+- La lectura.
+- El dibujo, desde siempre.
+- Los perros y los gatos. (Pdta: Me dan alergia los gatos.)
