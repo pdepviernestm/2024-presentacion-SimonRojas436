@@ -11,4 +11,4 @@
 - Los perros y los gatos. (Pdta: Me dan alergia los gatos.)
 
 ## Una foto mia:
-![](https://fv5-2.failiem.lv/thumb_show.php?i=hqweyr6t87&view&v=1)
+![](https://fv5-4.failiem.lv/thumb_show.php?i=jmn8mwy965&view&v=1)
