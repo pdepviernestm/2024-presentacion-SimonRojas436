@@ -2,11 +2,11 @@
 ---
 
 ## Acerca de mí:
-- Me llamo Simón Rojas, nací en 2005 y fue hace 6 años (creo recordar) que pisé por primera vez Argentina.
+- Me llamo Simón Rojas, nací en 2005 y este es mi segundo año en la carrera.
 - No soy mucho de mirar películas, pero ***One day*** es una cosa.
 
 ## Acerca de las cosas que me gustan:
-- La lectura. Mis libros favoritos (hoy, porque mañana pueden cambiar) son ***El Libro de Monelle*** y ***Si una Noche de Invierno un Viajero***.
+- La lectura. Mis libros favoritos son ***El Libro de Monelle*** y ***Si una Noche de Invierno un Viajero***.
 - El dibujo, desde siempre.
 - Los perros y los gatos. (Pdta: Me dan alergia los gatos.)
 
